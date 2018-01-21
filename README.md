@@ -1,0 +1,2 @@
+# qwerpy
+ongoing learning project
